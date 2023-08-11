@@ -28,7 +28,6 @@
 5. F 医生值班日在 B 医生和 C 医生值班日之间，且在星期四。
 
 请编写程序，输出每位医生的底班日。值班日以 Sunday ， Monday ， Tuesday ，Wednesday ， Thurday ， Friday ， Saturday 分别表示星期日到星期六（提示：用枚举变量）。
-## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDkyNjM3OTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNDM5MzUxNDhdfQ==
 -->
