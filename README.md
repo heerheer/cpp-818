@@ -15,7 +15,9 @@ chapter
 ```
 - `/questions.md`为记录所有题目的列表
 - `/answers`为针对每一个问题的解答
-- `/notes`下包含了针对本章节学习过程中u'da
+- `/notes`下包含了针对本章节学习过程中遇到的所有疑难点
+- `/notes/README.md`为笔记的总览，其中包括对细节内容的导航与无需扩展内容小点的记录
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgwMDMzOTldfQ==
+eyJoaXN0b3J5IjpbMTcyNTU0ODE0NV19
 -->
