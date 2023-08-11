@@ -18,6 +18,10 @@
 ## 9
 编写一个函数 insert, 用来向动态链表插入一个结点
 ## 10
+将以上 4 个函数组成一个程序(creat print del insert)，由主程序先后调用这些函数，实现链表的建立、输出、删除和插入，在主程序中指定需要删除和插入的结点。
+## 11
+医院内科有 A ， B ， C ， D ， E ， F ， G 共 7 位医生，每人在一周内要值一次夜班,排班的要求是:
+1. A 医生值班日比 C 医生晚 1 天医生值班日比 D 医生晚 3 天；（ 3 ） D 医生值班日比 E 医生晚 2 天；（ 4 ） B 医生值班日比 G 医生早 2 天：巧） F 医生值班日在 B 医生和 c 医生值班日之间，且在星期四。请编写程序，输出每位医生的底班日。值班日以 Sunday ， Monday ， Tuesday ，Wednesday ， Thurday ， Friday ， Saturday 分别表示星期日到星期六（提示：用枚举变量）。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyNzgxODhdfQ==
+eyJoaXN0b3J5IjpbMTk5Mzg4MDg4OF19
 -->
