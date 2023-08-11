@@ -1,6 +1,8 @@
 # 第七章 自定义数据类型
 ## 1
 定义一个结构体变量（包括年、月、日），编写程序，要求输入年、月、日，程序能计算并输出该日在本年中是第几天。注意闰年问题。
+## 2
+编写一个函数 days ，实现上面的计算。由主函数将年、月、日传递给函数 days,计算出该日在本年中是第几天并将结果传回主函数输出。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzk2ODkxNF19
+eyJoaXN0b3J5IjpbLTE3ODEyOTU2OTVdfQ==
 -->
